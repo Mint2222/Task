@@ -1,0 +1,13 @@
+E:\C#\ArrayTwo\ArrayTwo\bin\Debug\netcoreapp3.1\ArrayTwo.exe
+E:\C#\ArrayTwo\ArrayTwo\bin\Debug\netcoreapp3.1\ArrayTwo.deps.json
+E:\C#\ArrayTwo\ArrayTwo\bin\Debug\netcoreapp3.1\ArrayTwo.runtimeconfig.json
+E:\C#\ArrayTwo\ArrayTwo\bin\Debug\netcoreapp3.1\ArrayTwo.runtimeconfig.dev.json
+E:\C#\ArrayTwo\ArrayTwo\bin\Debug\netcoreapp3.1\ArrayTwo.dll
+E:\C#\ArrayTwo\ArrayTwo\bin\Debug\netcoreapp3.1\ArrayTwo.pdb
+E:\C#\ArrayTwo\ArrayTwo\obj\Debug\netcoreapp3.1\ArrayTwo.csprojAssemblyReference.cache
+E:\C#\ArrayTwo\ArrayTwo\obj\Debug\netcoreapp3.1\ArrayTwo.csproj.CoreCompileInputs.cache
+E:\C#\ArrayTwo\ArrayTwo\obj\Debug\netcoreapp3.1\ArrayTwo.AssemblyInfoInputs.cache
+E:\C#\ArrayTwo\ArrayTwo\obj\Debug\netcoreapp3.1\ArrayTwo.AssemblyInfo.cs
+E:\C#\ArrayTwo\ArrayTwo\obj\Debug\netcoreapp3.1\ArrayTwo.dll
+E:\C#\ArrayTwo\ArrayTwo\obj\Debug\netcoreapp3.1\ArrayTwo.pdb
+E:\C#\ArrayTwo\ArrayTwo\obj\Debug\netcoreapp3.1\ArrayTwo.genruntimeconfig.cache
